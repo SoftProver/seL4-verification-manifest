@@ -11,7 +11,7 @@
 
   <project name="HOL" path="HOL4" revision="ab03cec5200c8b23f9ba60c5cea958cfcd0cd158" />
   <project name="graph-refine" revision="8924af0c61c3c863db7957e0ebac7ae1ceefad9d" />
-  <project name="l4v" remote="SoftProver" revision="00d9073f70d064b31b4b1fad8a0e7086bb258007" />
+  <project name="l4v" remote="SoftProver" revision="13.0.0" />
   <project name="polyml" path="HOL4/polyml" revision="bf2020d077bfbb1c5911dcef20bd275c95da7162" />
   <project name="seL4" revision="cd6d3b8c25d49be2b100b0608cf0613483a6fffa" />
 </manifest>
